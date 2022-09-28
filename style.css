@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
 
-
+/* CSS RESET */
 *, *::before, *::after {
     box-sizing: border-box;
   }
@@ -40,10 +40,10 @@ body {
     justify-content: center;
     align-items: center;
     background-color: hsl(217, 54%, 11%);
-
 }
+ /* CARD */
 
-.card {
+ .card {
     
     width: 300px;
     border-radius: 15px;
