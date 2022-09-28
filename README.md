@@ -3,15 +3,15 @@
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
 
 
-### Screenshot
+## :camera: Screenshot
 
 ![](./screenshot.jpg)
 
-### Built with
+## :bulb: Built with
 
 - HTML
 - CSS 
 
-## Author
+## :raising_hand_man: Author
 
 Vinícius Silveira
