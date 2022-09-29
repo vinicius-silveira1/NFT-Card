@@ -5,7 +5,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## :camera: Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/92500615/193026585-966c2c8f-715b-48a8-8824-c3ecc96550a1.png)
 
 ## :bulb: Built with
 
