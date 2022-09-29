@@ -50,8 +50,7 @@ body {
     border-radius: 15px;
     padding: 20px;
     background-color: hsl(216, 50%, 16%);
-    box-shadow: 0px 20px 25px 15px rgba(0, 0, 0, 0.05),
-                0px 40px 30px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 12px 7px 20px 6px rgb(57 75 84 / 8%);
 }
 
 .main-img {
@@ -128,3 +127,12 @@ h1 {
   border: 1px solid white;
   border-radius: 50%;
 }
+
+@media (max-width: 350px) {
+  .wrapper {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-direction: column;
+  }
+  }
