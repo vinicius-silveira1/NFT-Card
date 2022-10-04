@@ -131,7 +131,7 @@ h1 {
 
 .author-img {
   width: 35px;
-  height: 34px;
+  height: 35px;
   margin-right: 16px;
   border: 1px solid white;
   border-radius: 50%;
@@ -141,7 +141,7 @@ h1 {
   .wrapper {
       display: flex;
       align-items: center;
-      justify-content: space-around;
+      justify-content: space-between;
       flex-direction: column;
   }
   }
