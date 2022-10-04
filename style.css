@@ -41,6 +41,15 @@ body {
     align-items: center;
     background-color: hsl(217, 54%, 11%);
 }
+
+
+
+
+
+
+
+
+
  /* CARD */
 
  .card {
@@ -122,8 +131,8 @@ h1 {
 
 .author-img {
   width: 35px;
-  height: 35px;
-  margin-right: 15px;
+  height: 34px;
+  margin-right: 16px;
   border: 1px solid white;
   border-radius: 50%;
 }
@@ -132,7 +141,7 @@ h1 {
   .wrapper {
       display: flex;
       align-items: center;
-      justify-content: space-between;
+      justify-content: space-around;
       flex-direction: column;
   }
   }
